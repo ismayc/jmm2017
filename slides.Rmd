@@ -176,10 +176,18 @@ knitr::include_graphics("images/precious.gif")
 
 ---
 
+# Student feedback from my Social Statistics course
 
-class: center, middle
+- "This course was better than any stats course I could have imagined."
 
-# Student feedback
+- "I can make plots, seriously this is so awesome and I love all the possibilities of `ggplot2`! And I can use `dplyr` to find answers and
+interesting things in social data sets. I can conduct statistical analyses, find if results have statistical significance, and find and interpret confidence
+intervals."
+
+- "I knew nothing before the course, and I could easily apply these skills to a sociology job now."
+
+- "Learning to code is very beneficial and using R is cost efficient. I would recommend this course to another student. Even
+though this course was hard for me, I still enjoyed it."
 
 ---
 
@@ -213,7 +221,7 @@ class: center, middle
 - Fork our GitHub repository at <br> <https://github.com/ismayc/moderndiver-book>
 
     - Please feel free to modify the book as you wish for your own needs! All we ask is that you
-list the authors field above as "Chester Ismay, Albert Y. Kim, and YOU!"
+list the authors as "Chester Ismay, Albert Y. Kim, and **YOU**!"
 
 - Fill out our Google Form to receive updates at <br> <http://bit.ly/moderndive-users>
 
