@@ -1,7 +1,7 @@
 ---
 title: "Teaching Introductory Statistics <br> using the <small>`tidyverse`</small> <br> via <small>`bookdown`</small>"
 subtitle: "2017 Joint Mathematics Meetings"
-author: "Chester Ismay <br><br> Reed College/Pacific University"
+author: "Chester Ismay <br> Twitter: @old_man_chester <br><br> Reed College/Pacific University"
 date: "2017/01/07 <br><br> Slides available at http://bit.ly/jmm2017 <br><br> Source code available at http://bit.ly/jmm2017code"
 output:
   xaringan::moon_reader:
@@ -83,6 +83,19 @@ class: center, middle
 
 ---
 
+# My story teaching Intro Stats
+
+![](images/ripon.png)  |  ![](images/tintle.jpg) 
+:-------------------------:|:-------------------------:
+
+---
+
+class: center, middle
+
+# But something was missing...
+
+---
+
 class: center, middle
 
 # My story teaching Intro Stats
@@ -107,11 +120,13 @@ class: center, middle
 
 ## An Introduction to Statistical and Data Sciences via R
 
-### [ModernDive.com](http://moderndive.com)
+***
+
+## [ModernDive.com](http://moderndive.com)
 
 OR
 
-### [ModernDive.org]((http://moderndive.com)
+## [ModernDive.org]((http://moderndive.com)
 
 ---
 
@@ -176,18 +191,19 @@ knitr::include_graphics("images/precious.gif")
 
 ---
 
-# Student feedback from my Social Statistics course
+# Student feedback from my Social Statistics course using ModernDive
 
-- "This course was better than any stats course I could have imagined."
+### - "This course was better than any stats course I could have imagined."
 
-- "I can make plots, seriously this is so awesome and I love all the possibilities of `ggplot2`! And I can use `dplyr` to find answers and
-interesting things in social data sets. I can conduct statistical analyses, find if results have statistical significance, and find and interpret confidence
-intervals."
+### - "I can make plots.  Seriously, this is so awesome and I love all the possibilities of `ggplot2`! And I can use `dplyr` to find answers and interesting things in social data sets. I can conduct statistical analyses, find if results have statistical significance, and find and interpret confidence intervals."
 
-- "I knew nothing before the course, and I could easily apply these skills to a sociology job now."
+---
 
-- "Learning to code is very beneficial and using R is cost efficient. I would recommend this course to another student. Even
-though this course was hard for me, I still enjoyed it."
+# Student feedback from my Social Statistics course using ModernDive
+
+###- "I knew nothing before the course, and I could easily apply these skills to a sociology job now."
+
+### - "Learning to code is very beneficial and using R is cost efficient. I would recommend this course to another student. Even though this course was hard for me, I still enjoyed it."
 
 ---
 
@@ -216,7 +232,7 @@ class: center, middle
 
 - Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
 
-- [ModernDive.com](http://moderndive.com)
+- [ModernDive.com](http://www.moderndive.com)
 
 - Fork our GitHub repository at <br> <https://github.com/ismayc/moderndiver-book>
 
